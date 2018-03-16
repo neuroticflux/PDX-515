@@ -10,6 +10,8 @@ so the +5V is to be used sparingly.
 
 Screw terminals are also known as Phoenix connectors (the green ones). Use appropriate size wiring for connection to the distribution board.
 
+All caps are 50V or more.
+
 BUILD THIS AT YOUR OWN RISK! I take no responsibility if you burn your house down, electrify yourself or destroy your equipment.
 
 PLAYING WITH HIGH VOLTAGES IS DANGEROUS! Don't build this if you're not absolutely sure what you're doing!
