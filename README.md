@@ -6,15 +6,15 @@ BOM:
 RefDes                	Name   	Value 	Quantity
 
 C1, C2, C3,
-C4, C5, C6				CAP    	3300uF	6      
+C4, C5, C6		      		CAP    	3300uF	6      
 C7, C8                	CAP    	100nF 	2    
 C9, C10, C11,
-C12   				  	CAP    	22uF  	4     
+C12   				        	CAP    	22uF  	4     
 C13, C14,
-C15         			CAP    	10uF  	3   
+C15         			      CAP    	10uF  	3   
 D1                    	GBPC6  	      	1   
 D2, D3, D4,
-D5, D6, D7				DIODE  	1n4004	6  
+D5, D6, D7			      	DIODE  	1n4004	6  
 D8, D9, D10           	LED    	      	3   
 J1, J2                	SCREW T	X2    	2  
 J3                    	SCREW T	X4    	1  
