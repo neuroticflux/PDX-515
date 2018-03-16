@@ -2,6 +2,7 @@
 Modular synth power supply + distribution board
 
 BOM:
+
 RefDes                	Name   	Value 	Quantity
 C1, C2, C3,
 C4, C5, C6				CAP    	3300uF	6       
