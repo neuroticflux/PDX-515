@@ -1,6 +1,19 @@
 # PDX-515
 Modular synth power supply + distribution board
 
+Power supply with space and mounting hole for ~80VA toroid 15-0-15 transformer.
+
+Use LM317T/LM337T regulators for ~1A on each rail.
+
++5V is taken from the +15V rail after regulating, to avoid massive heat dissipation on the 5V regulator,
+so the +5V is to be used sparingly.
+
+Screw terminals are also known as Phoenix connectors (the green ones). Use appropriate size wiring for connection to the distribution board.
+
+BUILD THIS AT YOUR OWN RISK! I take no responsibility if you burn your house down, electrify yourself or destroy your equipment.
+
+PLAYING WITH HIGH VOLTAGES IS DANGEROUS! Don't build this if you're not absolutely sure what you're doing!
+
 BOM:
 
 RefDes                	Name   	Value 	Quantity
